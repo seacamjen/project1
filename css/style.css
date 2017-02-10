@@ -18,14 +18,24 @@
 .second ul {
   float: left;
 }
-.third li {
-  list-style-type: none;
-}
 
-ul ul {
-  list-style-type:disc;
+.second ul {
+  text-align: left;
+  list-style-type: square;
 }
 
 .second ul a {
   list-style-type: none;
+}
+
+.third ul {
+  list-style-type: none;
+}
+
+.third ul ul {
+  list-style-type: disc;
+}
+
+ul ul {
+  list-style-type:disc;
 }
