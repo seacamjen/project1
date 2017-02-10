@@ -10,3 +10,7 @@
   padding: 4px;
   background-color: #9BD503;
 }
+
+.second ul {
+  float: left;
+}
