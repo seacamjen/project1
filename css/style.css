@@ -7,6 +7,10 @@
   font-size: 75px;
 }
 
+.first h2 {
+  padding: 3px;
+}
+
 .first img {
   float: left;
   margin: 7px;
@@ -38,4 +42,16 @@
 
 ul ul {
   list-style-type:disc;
+}
+
+.fourth h2 {
+  text-align: center;
+}
+
+.fourth h3 {
+  text-align: center;
+}
+
+.fifth h3 {
+  text-align: center;
 }
