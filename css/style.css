@@ -25,3 +25,7 @@
 ul ul {
   list-style-type:disc;
 }
+
+.second ul a {
+  list-style-type: none;
+}
