@@ -5,4 +5,8 @@
 
 .first img {
   float: left;
+  margin: 7px;
+  border: solid black 3px;
+  padding: 4px;
+  background-color: #9BD503;
 }
