@@ -21,3 +21,7 @@
 .third li {
   list-style-type: none;
 }
+
+ul ul {
+  list-style-type:disc;
+}
