@@ -3,6 +3,10 @@
   font-style: normal;
 }
 
+.first h2 {
+  font-size: 75px;
+}
+
 .first img {
   float: left;
   margin: 7px;
@@ -13,4 +17,7 @@
 
 .second ul {
   float: left;
+}
+.third li {
+  list-style-type: none;
 }
