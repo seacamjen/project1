@@ -10,9 +10,15 @@ This is a webpage that is the landing page to show the projects that I have work
 
 ## Setup/Installation Requirements
 
-* Ensure there is a web browser available
+* Open github.com
 * insert https://seacamjen.github.io/project1 into a url
-* hit enter
+* Click Clone or download
+* copy URL listed
+* Open Terminal
+* Ensure you are on the Desktop location
+* Enter git clone and enter URL from step 4 then click enter
+* Enter cd project1 click enter
+* Enter Open index.html click enter
 
 This is a page that can be accessed when internet is available and any web browser is open.
 
