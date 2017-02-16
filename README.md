@@ -11,7 +11,7 @@ This is a webpage that is the landing page to show the projects that I have work
 ## Setup/Installation Requirements
 
 * Open github.com
-* insert https://seacamjen.github.io/project1 into a url
+* insert https://github.com/seacamjen/project1/tree/gh-pages into a url
 * Click Clone or download
 * copy URL listed
 * Open Terminal
